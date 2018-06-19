@@ -1,0 +1,39 @@
+.description{
+  color: red;
+}
+.title{
+  color:green;
+}
+*{
+   outline:1px solid red:important!
+}
+*{
+  -webkit-box-sizing:border-box;
+  -moz-box-sizing:border-box;
+  -ms-box-sizing:border-box;
+  box-sizing: border-box;
+}
+.image{
+  max-width: 460 px;
+}
+.description{
+  max-width: 705 px;
+}
+h3{
+   background-color: black;
+   color:green;
+}
+p{
+   color:green;
+}
+h4{
+  background-color: gold;
+    color: green;
+}
+.app{
+  display:flex;
+}
+.master{
+font-size: 72px;
+
+}
