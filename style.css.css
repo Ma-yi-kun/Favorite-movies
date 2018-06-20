@@ -40,3 +40,19 @@ font-size: 72px;
 .destination:hover h2 {
 transform: rotate(0deg);
 }
+.New-title {
+    background-image: url(file:///C:/Users/Mamdouh/Downloads/css-demo/css-demo/images/Spider_Man_facebook_cover_1336117083.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 1em;
+    margin-bottom: 2rem;
+    min-height: 25vh;
+    color:blue;
+    font-size: 2em;
+    font-family: Montserrat sans-serif;
+    font-size: 2em
+    box-sizing:inherit
+
+
+}
