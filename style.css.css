@@ -37,3 +37,6 @@ h4{
 font-size: 72px;
 
 }
+.destination:hover h2 {
+transform: rotate(0deg);
+}
